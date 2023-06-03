@@ -1,7 +1,7 @@
 ## Installation
-For now you're able to clone repo in your project or download ZIP folder manually.
+You're able to clone repo in your project or download ZIP folder manually.
 ```
-git clone https://github.com/votehserxam/AutoLayout.git
+https://github.com/quovis-studio/AutoLayout.git
 ```
 > After cloning don't forget to add `AutoLayout` folder in Project Navigator in Xcode.
 
